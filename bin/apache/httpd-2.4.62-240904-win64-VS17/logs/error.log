@@ -1,0 +1,5 @@
+[Wed Dec 17 21:16:17.485212 2025] [mpm_winnt:notice] [pid 11644:tid 508] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 PHP/8.3.28 configured -- resuming normal operations
+[Wed Dec 17 21:16:17.485212 2025] [mpm_winnt:notice] [pid 11644:tid 508] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Dec 17 21:16:17.485212 2025] [core:notice] [pid 11644:tid 508] AH00094: Command line: 'C:\\laragon\\bin\\apache\\httpd-2.4.62-240904-win64-VS17\\bin\\httpd -d C:/laragon/bin/apache/httpd-2.4.62-240904-win64-VS17'
+[Wed Dec 17 21:16:17.490485 2025] [mpm_winnt:notice] [pid 11644:tid 508] AH00418: Parent: Created child process 18516
+[Wed Dec 17 21:16:18.420451 2025] [mpm_winnt:notice] [pid 18516:tid 500] AH00354: Child: Starting 64 worker threads.
